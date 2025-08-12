@@ -9,5 +9,7 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.cs" },
+  { import = "astrocommunity.pack.python" },
+
   -- import/override with your plugins folder
 }
